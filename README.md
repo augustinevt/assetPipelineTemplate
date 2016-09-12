@@ -25,6 +25,7 @@ Contact me at augustvontrapp@gmail.com
 * Node
 * Gulp
 * npm
+* HTML
 
 
 ### License
